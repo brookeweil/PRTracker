@@ -6,7 +6,7 @@
 ### 2. Install Zeit Now
 
 ### 3. Create a new deployment
-* From the `nodeproj` directory, **deploy** your version of the code using `now -e "SLACK_TOKEN="xoxp-3569420125-192863101940-223085835351-61e47be83490785cf183c60ef4973f6e"`. This will set our Meetup OAuth token as an environment variable in your deployment.
+* From the `nodeproj` directory, **deploy** your version of the code using `now -e "SLACK_TOKEN="{token}"`. This will set our Meetup OAuth token as an environment variable in your deployment.
 * **Alias** the deployment to something useful using `now alias {url-or-your-new-deployment} My-custom-name`
 
 ### 4. Set up webhooks for repos you want to include

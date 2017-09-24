@@ -42,4 +42,4 @@ Perhaps this app will make it easier for Pro team to keep track of which PR's ne
 
 
 
-![logo](https://github.com/brookeweil/meetup-hack/blob/master/logo.png)
+![logo](https://github.com/brookeweil/PRTracker/blob/master/logo.png)
